@@ -7,6 +7,7 @@ For documentation, the project microsite and related repositories are linked bel
 
 ## Links
 
-- [Microsite repository](https://github.com/ATNoG/pei-automotive-microsite)
 - [Live site](https://atnog.github.io/pei-automotive-microsite/)
-- [Frontend Code](https://github.com/PEI-Automotive/map_test)
+- [Microsite repository](https://github.com/ATNoG/pei-automotive-microsite)
+- [Frontend Code](https://github.com/ATNoG/pei-automotive-frontend)
+- [Backend Code](https://github.com/ATNoG/pei-automotive-backend)
